@@ -60,7 +60,7 @@ weight = 80
 
 ## Curated List
 A list of open source code is maintained on [Github](https://github.com/shiruipan/graph-deep-learning). 
-More source code will be released as it is ready for publishing. 
+Other source code will be released as it is ready for publishing. 
 
 
 
