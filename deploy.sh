@@ -5,6 +5,14 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# upload the main content
+msg="main content $(date)"
+
+
+git add .
+git commit -m "$msg"
+git push -u origin master
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
@@ -23,3 +31,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+cd ..
