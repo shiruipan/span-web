@@ -40,16 +40,16 @@ weight = 40
   + ARC Future Fellow
   + Australian Research Council (ARC)
 * <span style="color:orange"> [Award]: </span> 2021 FIT Dean's Award for Excellence in Research by an Early Career Researcher
-* <span style="color:orange"> [Award]: </span> [AI 2000 AAAI/IJCAI Most Influential Scholars Honorable Mention] (../../post/ai-2000-certificate.png)  (only five recipients in Australia) (08/04/2021). 
-* <span style="color:orange"> [Award]: </span> [3 Papers are Selected as Most Influential Papers in IJCAI] (https://www.paperdigest.org/2021/03/most-influential-ijcai-papers-2021-03/) (08/03/2021). 
+* <span style="color:orange"> [Award]: </span> [AI 2000 AAAI/IJCAI Most Influential Scholars Honorable Mention](../../post/ai-2000-certificate.png)  (only five recipients in Australia) (08/04/2021). 
+* <span style="color:orange"> [Award]: </span> [3 Papers are Selected as Most Influential Papers in IJCAI](https://www.paperdigest.org/2021/03/most-influential-ijcai-papers-2021-03/) (08/03/2021). 
   - 2019 Graph WaveNet For Deep Spatial-Temporal Graph Modeling (Rank: 2)
   - 2018 Adversarially Regularized Graph Autoencoder For Graph Embedding (Rank: 7)
   - 2016 Tri-Party Deep Network Representation (Rank: 6)
-* <span style="color:orange"> [Award]: </span> [1 Paper is Selected as Most Influential Paper in KDD] (https://www.paperdigest.org/2021/03/most-influential-kdd-papers-2021-03/)   (08/03/2021).
+* <span style="color:orange"> [Award]: </span> [1 Paper is Selected as Most Influential Paper in KDD](https://www.paperdigest.org/2021/03/most-influential-kdd-papers-2021-03/)   (08/03/2021).
   - 2020 Connecting The Dots: Multivariate Time Series Forecasting With Graph Neural Networks (Rank: 7)
-* <span style="color:orange"> [Award]: </span> [1 Paper is Selected as Most Influential Paper in AAAI] (https://www.paperdigest.org/2021/03/most-influential-aaai-papers-2021-03/) (08/03/2021). 
+* <span style="color:orange"> [Award]: </span> [1 Paper is Selected as Most Influential Paper in AAAI](https://www.paperdigest.org/2021/03/most-influential-aaai-papers-2021-03/) (08/03/2021). 
   - 2018 DiSAN: Directional Self-Attention Network For RNN/CNN-Free Language Understanding (Rank: 10)
-* <span style="color:orange"> [Award]: </span> [1 Paper is Selected as Most Influential Paper in CIKM] (https://www.paperdigest.org/2021/03/most-influential-cikm-papers-2021-03/)  (08/03/2021). 
+* <span style="color:orange"> [Award]: </span> [1 Paper is Selected as Most Influential Paper in CIKM](https://www.paperdigest.org/2021/03/most-influential-cikm-papers-2021-03/)  (08/03/2021). 
   - 2017 MGAE: Marginalized Graph Autoencoder For Graph Clustering (Rank: 11)
   
   
