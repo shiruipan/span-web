@@ -21,6 +21,7 @@ weight = 50
 #### Editorship
 * Guest Editor for Special Issue: IEEE Transactions on Neural Networks and Learning Systems
 * Guest Editor for Special Issue: Future Generation Computer Systems
+* Guest Editor for Special Issue: Neurocomputing 
 * Guest Editor for Special Issue: Complexity 
 * Associate Editor: IEEE Access
 
@@ -50,11 +51,13 @@ weight = 50
 
 #### 	Program Committee
 * The International Conference on Learning Representations (ICLR-21)
-* Annual Conference on Neural Information Processing Systems (NeurIPS-20,2019) (CORE A*)
-* SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-20,19) (CORE A*)
-* AAAI Conference on Artificial Intelligence (AAAI-20,19,18,17) (CORE A*)
-* The Web Conference (WWW-20,19) (CORE A*)
-* International Joint Conference on Artificial Intelligence (IJCAI-20,19,18,17) (CORE A*)
+* Annual Conference on Neural Information Processing Systems (NeurIPS-21,20,19) (CORE A*)
+* SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-21,20,19) (CORE A*)
+* Conference on Computer Vision and Pattern Recognition (CVPR-22, 21) (CORE A*)
+* IEEE International Conference on Data Mining (ICDM-21, 20, 19) (CORE A*)
+* AAAI Conference on Artificial Intelligence (AAAI-21,20,19,18,17) (CORE A*)
+* The Web Conference (WWW-21,20,19) (CORE A*)
+* International Joint Conference on Artificial Intelligence (IJCAI-21,20,19,18,17) (CORE A*)
 * SIAM International Conference on Data Mining (SDM-19) (CORE A)
 * Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-19,18,17,16)(CORE A)
 * IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2014-15) 

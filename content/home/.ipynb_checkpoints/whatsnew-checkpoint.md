@@ -23,7 +23,7 @@ weight = 20
 #   + Reinforcement Learning for Knowledge Graph, Graph Smoothing Splines Neural Networks, Graph Ladder-Shape Networks
 
 +++
-* <span style="color:red"> <b>[Paper]: </b> </span> One paper on was accepted by WSDM-21  (12/10/2021).
+* <span style="color:red"> <b>[Paper]: </b> </span> One paper was accepted by WSDM-21  (12/10/2021).
 * <span style="color:red"> <b>[Paper]: </b> </span> One paper on [Graph Poisson Networks](../../publication/neurips-21-wan/) was accepted by NeurIPS-21  (28/09/2021).
 * <span style="color:orange"> [Award]: </span> *ARC Future Fellowship* (only five recipients in Computer Science in Australia in 2021) (11/08/2021). 
 * <span style="color:blue"> [PhD Completion]: </span> Congratulations to [Miao Zhang](../../authors/miao-zhang/), [Zonghan Wu](../../authors/zonghan-wu/), [Chun Wang](../../authors/chun-wang/), [Guojia Wan](../../authors/guojia-wan/),  who have finished/submitted their final theses in 2021. Fortune to work with them!(08/2021). 
