@@ -28,9 +28,9 @@ weight = 50
 
 
 #### 	Conference Organisation
-* PC Chair: 2021 International Conference on Data Science and Systems (DSS-2021)
-* Workshop Chair: 2021 IEEE International Conference on Big Data
-* Tutorial Chair: 2020Digital Image Computing: Techniques and Applications (DICTA 2020)
+* **PC Chair**: 2021 International Conference on Data Science and Systems (DSS-2021)
+* **Workshop Chair**: 2021 IEEE International Conference on Big Data
+* **Tutorial Chair**: 2020Digital Image Computing: Techniques and Applications (DICTA 2020)
 * Special Session Chair: Learning from Big Graph Data: Theory and Applications, IJCNN-2018 (CORE A)
 * Special Session Chair: Advanced Data Analytics for Large-scale Complex Data Environment, IJCNN- 2017 (CORE A)
 * Special Session Chair: Advanced Machine Learning Methods and Applications from Complicated Data Environment, IJCNN-2016 (CORE A)
