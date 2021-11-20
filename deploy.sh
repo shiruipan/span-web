@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# git submodule add -f -b master https://github.com/shiruipan/shiruipan.github.io.git public
+git submodule add -f -b master https://github.com/shiruipan/shiruipan.github.io.git public
 # If a command fails then the deploy stops
 set -e
 
